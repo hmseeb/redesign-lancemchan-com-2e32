@@ -290,7 +290,7 @@ function drawer() {
       <div class="drawer-scrim"></div>
       <div class="drawer-panel">
         <div class="drawer-head">
-          ${img(IMG.logoWordmark, { alt: 'Lance McHan, REALTOR®' })}
+          ${img(IMG.logoWordmark, { alt: 'Lance McHan, REALTOR®', eager: true })}
           <button class="drawer-close" type="button" aria-label="Close menu">&times;</button>
         </div>
         <nav aria-label="Mobile">
