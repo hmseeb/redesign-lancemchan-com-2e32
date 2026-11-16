@@ -8999,6 +8999,16 @@
       "source": "/neighborhood/11325913/Seaport/",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/review",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/review/",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }
